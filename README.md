@@ -1,0 +1,2 @@
+# Palletization
+Pallet creation area
