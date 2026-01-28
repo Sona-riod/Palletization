@@ -72,4 +72,3 @@ This launches the camera, detection pipeline, operator HMI, and cloud synchroniz
 
 Proprietary – All rights reserved.
 
-```
